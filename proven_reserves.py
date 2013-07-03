@@ -30,4 +30,4 @@ with open("data/oil.csv", "w") as f:
 
 	
 	
-print "Done writing basic CSV"
+print "Done writing CSV data"
