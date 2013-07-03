@@ -27,6 +27,11 @@ with open("data/oil.csv", "w") as f:
 		# output.writerow(barrel.get_text().encode("utf-8"))
 		# print test
 		output.writerow(test)
+		
+		# Need to look at a range for i in range (1, 10)
+		# because we know how many data points should
+		# be in each row. This will help to create a
+		# single row object that should be printed.
 
 	
 	
